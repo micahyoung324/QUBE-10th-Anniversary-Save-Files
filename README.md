@@ -1,5 +1,5 @@
 # Collections of Q.U.B.E. 10th Anniversary Save Files
-Go [here](/savefiles) for a list of specific savefiles, or look at [release](https://github.com/micahyoung324/QUBE-10th-Anniversary-Save-Files/releases/tag/qube) for zipfile.
+Go [here](/savefiles) for a list of specific savefiles, or look at [release](https://github.com/micahyoung324/QUBE-10th-Anniversary-Save-Files/releases/tag/qube2) for zipfile.
 
 Sector 1-7 savefiles credit to jan Sawa.
 
